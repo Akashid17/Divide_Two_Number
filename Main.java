@@ -1,5 +1,5 @@
 /*
-1.Program to divide two numbers
+Program to divide two numbers
 */
 
 import java.lang.*;
