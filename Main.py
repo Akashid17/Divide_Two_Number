@@ -1,6 +1,5 @@
 '''
-1.Program to divide two numbers
-
+Program to divide two numbers
 '''
 
 def Divide(iNo1,iNo2):
